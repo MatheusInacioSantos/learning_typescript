@@ -1,4 +1,4 @@
-# Aula de Typescript da Take na plataforma DIO
+# Santader Bootcamp Fullstack Developer
   
 *Bem vindo!!*
 
@@ -85,6 +85,7 @@ Caso queira fazer testes usando html é só alterar o index.html.
         * noImplicitReturns
             * Levanta um erro caso uma função tenha caminhos que retornam valor e outros que não retornam
     4. Existem outras regras e explicações mais elaboradas na documentação oficial (https://www.typescriptlang.org/tsconfig)
+
+    Fonte de aprendizado: [João Lira](https://github.com/lira1705/mentoria-typescript)
    
-## Sobre colaboração 
-Sinta-se livre para abrir pull requests com melhorias para ajudar quem quiser aprender mais sobre Typescript. Também podem tirar dúvidas comigo via comentário.
+
